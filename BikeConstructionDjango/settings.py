@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-e$03vb08vxfnc#o$xrsevkkn-v&*i+0_%^79wrcqs!o-v!&83+
 #DEBUG = False
 DEBUG = True
 
-ALLOWED_HOSTS = []
-#ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['*']
+#ALLOWED_HOSTS = ['bikeconstructionweb.onrender.com']
 
 # Application definition
 
