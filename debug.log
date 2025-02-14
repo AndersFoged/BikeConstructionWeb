@@ -2,3 +2,56 @@ INFO 2025-02-14 01:19:55,117 autoreload Watching for file changes with StatReloa
 INFO 2025-02-14 01:20:00,621 basehttp "GET / HTTP/1.1" 200 2608
 INFO 2025-02-14 01:20:08,128 basehttp "GET /bikes/ HTTP/1.1" 200 11042
 INFO 2025-02-14 01:20:09,162 basehttp "GET /components/ HTTP/1.1" 200 23526
+INFO 2025-02-14 01:36:39,601 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:36:43,687 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:36:52,628 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:36:54,473 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:36:55,306 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:36:56,187 basehttp "GET /components/ HTTP/1.1" 200 23566
+INFO 2025-02-14 01:37:05,067 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:38:00,948 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:38:01,559 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:38:08,510 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:40:42,763 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:40:43,386 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:40:46,533 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:40:48,815 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:40:53,820 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:40:55,490 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:41:45,728 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:41:46,319 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:41:50,724 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:41:52,419 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:41:55,466 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:41:59,028 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:43:14,926 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:43:15,529 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:43:31,690 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:43:38,603 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:43:46,484 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:43:47,574 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:44:22,479 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:44:23,071 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:44:39,019 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:44:42,958 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:44:59,492 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:45:00,163 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-14 01:45:01,780 basehttp "GET / HTTP/1.1" 500 59
+INFO 2025-02-14 01:45:11,082 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:45:11,693 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-14 01:45:15,527 basehttp "GET / HTTP/1.1" 500 59
+INFO 2025-02-14 01:47:02,479 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-14 01:47:06,135 basehttp "GET / HTTP/1.1" 500 59
+INFO 2025-02-14 01:47:17,625 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 01:47:18,256 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:47:20,362 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:55:23,037 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 01:55:26,034 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:55:48,199 basehttp "GET / HTTP/1.1" 200 2728
+INFO 2025-02-14 01:55:57,517 basehttp "GET /bikes/ HTTP/1.1" 200 11082
+INFO 2025-02-14 01:56:00,015 basehttp "GET /components/ HTTP/1.1" 200 23566
+INFO 2025-02-14 02:02:57,521 autoreload D:\Onlime Sync\3_Programering\Itucation\VS Code\BikeConstructionDjango\BikeConstructionWeb\BikeConstructionDjango\settings.py changed, reloading.
+INFO 2025-02-14 02:02:58,132 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 02:03:31,048 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 02:03:34,114 basehttp "GET / HTTP/1.1" 200 2608
+INFO 2025-02-14 02:03:41,456 basehttp "GET /components/ HTTP/1.1" 200 23526

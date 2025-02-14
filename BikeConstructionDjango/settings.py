@@ -23,8 +23,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-e$03vb08vxfnc#o$xrsevkkn-v&*i+0_%^79wrcqs!o-v!&83+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-#DEBUG = False
-DEBUG = True
+DEBUG = False
+#DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 #ALLOWED_HOSTS = ['bikeconstructionweb.onrender.com']
@@ -121,23 +121,23 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-#STATIC_URL = '/static/'
-STATIC_URL = 'https://bikeconstructionweb.onrender.com/static/'
+STATIC_URL = '/static/'
+#STATIC_URL = 'https://bikeconstructionweb.onrender.com/static/'
 #MEDIA_URL = 'https://bikeconstructionweb.onrender.com/media/'
 
 # # Default primary key field type
 # # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 # DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 STATICFILES_DIRS = [
-    #BASE_DIR / "static",  # Adjust this path based on where your static files are stored
     BASE_DIR / "static",
 ]
 
 # Optional: Define STATIC_ROOT if deploying to production
-STATIC_ROOT = BASE_DIR / "staticfiles"
+#STATIC_ROOT = BASE_DIR / "staticfiles"
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 LOGGING = {
     'version': 1,
